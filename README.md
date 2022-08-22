@@ -4,7 +4,7 @@
 
 2. firebase init hosting
 
-3. firebase init functions 
+3. firebase init functions (Blaze Plan Required)
 
 4. install express and cors in function folder
 
@@ -12,6 +12,6 @@
 
 6. build express app in functions/index.js
 
-7. test using 'firebase emulator.js
+7. test using 'firebase emulators:start'
 
-8. deploy using firebase deploy
+8. deploy using 'firebase deploy'

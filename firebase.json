@@ -10,5 +10,10 @@
       "source": "**",
       "function": "api"
     }]
+  },   "emulators": {
+    "hosting": {
+      "host": "localhost",
+      "port": "6001"
+    }
   }
 }
